@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://app.oaisisdefense.com/sitemap.xml
+Sitemap: https://oaisisdefense.com/sitemap.xml
