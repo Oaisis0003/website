@@ -1,0 +1,19 @@
+{
+  "name": "Oasis Defense",
+  "short_name": "Oasis",
+  "description": "Oasis Defense manufactures indigenous defense systems, weapon platforms, counter-drone systems, RCWS, small arms, and airborne logistics solutions in India.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e8611f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
